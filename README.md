@@ -20,9 +20,9 @@ I built the original SunnPro site around 2020 in PHP and MySQL. In 2026 I audite
 My personal site, with project pages and demos plus 127 privacy-first browser utilities across 16 workbenches. Static HTML, CSS and JavaScript on GitHub Pages.
 **Live:** [coreymcdaniel.com](https://coreymcdaniel.com) · [Utilities](https://coreymcdaniel.com/utilities/) · [Repo](https://github.com/coreymcd37/corey)
 
-### ⚡ Ai Efficiency Optimizer
+### ⚡ Ai Efficiency Optimizer Prompt
 An open agent skill and guide for saving money and usage credit when using AI models. Install it as a skill or paste it as a system prompt in ChatGPT, Claude, Gemini, Copilot or the API, with evals and a cost estimator included.
-**Repo:** [ai-efficiency-optimizer](https://github.com/coreymcd37/ai-efficiency-optimizer) · open to contributions
+**Repo:** [ai-efficiency-optimizer-prompt](https://github.com/coreymcd37/ai-efficiency-optimizer-prompt) · open to contributions
 
 ### More on my site
 [CMD-R](https://coreymcdaniel.com/projects/cmd-r/) (browser arcade game) · [Government Funding Pathways](https://coreymcdaniel.com/projects/funding-gateway/) · [Credit Reset Planner](https://coreymcdaniel.com/projects/credit-reset-planner/) · [Cognitive Prism](https://coreymcdaniel.com/projects/cognitive-prism/) · [Research Finder](https://coreymcdaniel.com/projects/research-finder/)
